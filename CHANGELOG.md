@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gexin1/ecli/compare/v1.0.0...v1.0.1) (2024-08-27)
+
+
+### Bug Fixes
+
+* 修改package.json ([2e29aeb](https://github.com/gexin1/ecli/commit/2e29aeb908b9212528542772aa2e0284e7c64f96))
+
 ## 1.0.0 (2024-08-27)
 
 
