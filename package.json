@@ -1,7 +1,7 @@
 {
   "name": "ecli",
   "version": "0.0.1",
-  "description": "javascript enum",
+  "description": "ecli",
   "sideEffects": false,
   "type": "module",
   "exports": {
