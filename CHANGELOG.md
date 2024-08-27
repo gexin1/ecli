@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/gexin1/ecli/compare/v1.0.1...v1.0.2) (2024-08-27)
+
+
+### Bug Fixes
+
+* 代码冲突 ([2031fd5](https://github.com/gexin1/ecli/commit/2031fd51da5ea73239c67f2031ddbb8dfe44456c))
+* 名字冲突被占用 ([19d4cb1](https://github.com/gexin1/ecli/commit/19d4cb13c1b62c95f6777ebc0b8afc917a2e252d))
+
 ## [1.0.1](https://github.com/gexin1/ecli/compare/v1.0.0...v1.0.1) (2024-08-27)
 
 
