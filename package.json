@@ -26,6 +26,9 @@
     "semantic-release": "semantic-release",
     "test": "vitest run --coverage"
   },
+  "bin": {
+    "ecli": "./dist/index.cjs"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gexin1/ecli.git"
@@ -78,5 +81,10 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "execa": "^9.3.1"
   }
 }
