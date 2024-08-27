@@ -1,6 +1,6 @@
 {
   "name": "eclix",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "eclix",
   "sideEffects": false,
   "type": "module",
