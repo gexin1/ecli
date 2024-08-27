@@ -27,7 +27,7 @@
     "test": "vitest run --coverage"
   },
   "bin": {
-    "ecli": "dist/index.cjs"
+    "eclix": "dist/index.cjs"
   },
   "repository": {
     "type": "git",
