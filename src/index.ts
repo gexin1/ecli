@@ -11,9 +11,7 @@ program
 program.parse();
 
 const options = program.opts();
-console.log(options);
 const runExeca = async (cmds: string[], successMsg: string, errorMsg: string, action?: string) => {
-  console.log(cmds);
   try {
     const promises = cmds.map((item) => execaCommand`${item}`);
     const result = await Promise.all(promises);
