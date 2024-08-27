@@ -1,6 +1,6 @@
 {
   "name": "ecli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ecli",
   "sideEffects": false,
   "type": "module",
