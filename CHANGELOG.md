@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/gexin1/ecli/compare/v1.0.3...v1.0.4) (2024-08-27)
+
+
+### Bug Fixes
+
+* bin value ([55f2e6b](https://github.com/gexin1/ecli/commit/55f2e6b4ca664e050166690ca6e56560229bafe3))
+
 ## [1.0.3](https://github.com/gexin1/ecli/compare/v1.0.2...v1.0.3) (2024-08-27)
 
 
