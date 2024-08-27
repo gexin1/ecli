@@ -1,7 +1,7 @@
 {
-  "name": "ecli",
-  "version": "1.0.1",
-  "description": "ecli",
+  "name": "eclix",
+  "version": "0.0.1",
+  "description": "eclix",
   "sideEffects": false,
   "type": "module",
   "exports": {
