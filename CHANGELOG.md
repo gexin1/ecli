@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/gexin1/ecli/compare/v1.0.4...v1.0.5) (2024-08-27)
+
+
+### Bug Fixes
+
+* 添加bin文件 ([ff09086](https://github.com/gexin1/ecli/commit/ff09086028f4532785be32a01d52a220e7ba20f2))
+
 ## [1.0.4](https://github.com/gexin1/ecli/compare/v1.0.3...v1.0.4) (2024-08-27)
 
 
