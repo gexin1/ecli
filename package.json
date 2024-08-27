@@ -26,9 +26,7 @@
     "semantic-release": "semantic-release",
     "test": "vitest run --coverage"
   },
-  "bin": {
-    "eclix": "dist/index.cjs"
-  },
+  "bin": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gexin1/ecli.git"
