@@ -113,6 +113,6 @@ export async function run() {
   await runExeca(cmds, successMsg, errorMsg, action);
 }
 
-if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  run();
-}
+
+run();
+
